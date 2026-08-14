@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Admin Notification Details ---
-NOTIFICATION_BOT_TOKEN="8287577190:AAEOa0F1qj22gSAC6cmQzkoi_C5XAk71qmA"
+NOTIFICATION_BOT_TOKEN=""
 ADMIN_USER_ID="6776334925"
 
 echo "Starting Battle Nexus Bot Setup..."
